@@ -35,4 +35,3 @@ Replace this variable to your own setting in  ``CameraWebServer.ino``
 #define WiFIPassword          "Your WiFi Password"
 ```
 Then using Arduino to upload fireware to ESP32-CAM board and using another HC-50 board to send the capture singal.
-
